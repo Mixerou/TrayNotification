@@ -1,3 +1,5 @@
+# ARCHIVED
+
 [![](https://jitpack.io/v/PlusHaze/TrayNotification.svg)](https://jitpack.io/#PlusHaze/TrayNotification)
 
 # Tray Notification
